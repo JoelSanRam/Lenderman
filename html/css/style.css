@@ -904,10 +904,10 @@ section.team-section .owl-theme .owl-controls .owl-pagination {
   color: #ffffff;
 }
 .owl-theme .owl-controls .owl-buttons div.owl-prev:hover:after {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 .owl-theme .owl-controls .owl-buttons div.owl-next:hover:after {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 section.clients-section {
   padding: 80px 0;
@@ -1029,7 +1029,7 @@ section.blog-section .blog-box .blog-post .inner-blog-post:after {
   top: 20px;
   left: 20px;
   right: 20px;
-  border: 2px solid #ffc952;
+  border: 2px solid #b2b2b2;
   opacity: 0;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -1144,7 +1144,7 @@ section.single-project-section .single-project-box .single-content ul.detail-lis
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(255, 201, 82, 0.95);
+  background: rgba(79, 79, 79, 0.95);
   opacity: 0;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -1266,7 +1266,7 @@ section.about-us-section .about-us-box .about-us-post:after {
   top: 20px;
   left: 20px;
   right: 20px;
-  border: 2px solid #ffc952;
+  border: 2px solid #b2b2b2;
   opacity: 0;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -1657,7 +1657,7 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
   color: #222222;
 }
 .blog-page-section .blog-page-box .blog-post .post-content h2 a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 .blog-page-section .blog-page-box .blog-post .post-content ul.post-meta {
   margin: 0;
@@ -1681,7 +1681,7 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
   color: #999999;
 }
 .blog-page-section .blog-page-box .blog-post .post-content ul.post-meta li a:hover {
-  color: #ffc952;
+  color: #fff;
 }
 .blog-page-section .blog-page-box .blog-post .post-content ul.post-meta li:before {
   content: '/';
@@ -1730,7 +1730,7 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
 }
 .pagination-box a.prev:hover,
 .pagination-box a.next:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 .pagination-box a.prev {
   float: left;
@@ -1950,8 +1950,8 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
 }
 .sidebar .tags-widget ul.tags-list li a:hover {
   color: #222222;
-  border: 2px solid #ffc952;
-  background: #ffc952;
+  border: 2px solid #b2b2b2;
+  background: #4f4f4f;
 }
 /*-------------------------------------------------*/
 /* =  Single Post
@@ -2045,8 +2045,8 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
 }
 .blog-page-section .blog-page-box.single-post .share-box ul.share-list li a:hover {
   color: #222222;
-  border: 2px solid #ffc952;
-  background: #ffc952;
+  border: 2px solid #b2b2b2;
+  background: #4f4f4f;
 }
 .blog-page-section .blog-page-box.single-post .share-box ul.tag-list {
   float: right;
@@ -2058,7 +2058,7 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
   font-style: italic;
 }
 .blog-page-section .blog-page-box.single-post .share-box ul.tag-list li a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 .blog-page-section .blog-page-box.single-post .prev-next-post {
   margin: 0 0 55px;
@@ -2086,7 +2086,7 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
 }
 .blog-page-section .blog-page-box.single-post .prev-next-post .prev-post-blog > a:hover,
 .blog-page-section .blog-page-box.single-post .prev-next-post .next-post-blog > a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 .blog-page-section .blog-page-box.single-post .prev-next-post .prev-post-blog img,
 .blog-page-section .blog-page-box.single-post .prev-next-post .next-post-blog img {
@@ -2118,7 +2118,7 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
 }
 .blog-page-section .blog-page-box.single-post .prev-next-post .prev-post-blog h2 a:hover,
 .blog-page-section .blog-page-box.single-post .prev-next-post .next-post-blog h2 a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 .blog-page-section .blog-page-box.single-post .prev-next-post .prev-post-blog > span,
 .blog-page-section .blog-page-box.single-post .prev-next-post .next-post-blog > span {
@@ -2209,7 +2209,7 @@ section.testimonials-section .owl-theme .owl-controls .owl-pagination .owl-page 
   margin-top: -10px;
 }
 .comment-area-box > ul li .comment-box .comment-content a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 .comment-area-box > ul li .comment-box .comment-content p {
   margin-bottom: 10px;
@@ -2696,7 +2696,7 @@ section.tabs-section.first-style ul.nav-tabs li a {
 }
 section.tabs-section.first-style ul.nav-tabs li a.active,
 section.tabs-section.first-style ul.nav-tabs li a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 section.tabs-section.first-style ul.nav-tabs li.active a {
   color: #ffc952;
@@ -2962,7 +2962,7 @@ section.error-section h1 {
   display: inline-block;
   outline: none;
   padding: 10px 35px;
-  color: #ffc952;
+  color: #4f4f4f;
   font-size: 12px;
   font-family: 'Poppins', sans-serif;
   background: transparent;
@@ -2972,7 +2972,7 @@ section.error-section h1 {
   -moz-border-radius: 3px;
   -o-border-radius: 3px;
   border-radius: 3px;
-  border: 2px solid #ffc952;
+  border: 2px solid #b2b2b2;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
@@ -3237,12 +3237,12 @@ footer .up-footer .text-widget img {
 footer .up-footer .text-widget p {
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
-  color: #ccc;
+  color: #fff;
   margin-bottom: 24px;
 }
 footer .up-footer .text-widget span {
   display: block;
-  color: #666666;
+  color: #fff;
   font-size: 14px;
   font-family: 'Merriweather', serif;
   font-style: italic;
@@ -3307,10 +3307,10 @@ footer .up-footer .posts-widget ul li h2 a {
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  color: #ccc;
+  color: #fff;
 }
 footer .up-footer .posts-widget ul li h2 a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 footer .up-footer .posts-widget ul li > a {
   display: inline-block;
@@ -3366,14 +3366,14 @@ footer .up-footer .links-widget ul li a {
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  color: #ccc;
+  color: #fff;
   font-size: 14px;
   font-family: 'Poppins', sans-serif;
   line-height: 20px;
   margin: 0;
 }
 footer .up-footer .links-widget ul li a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 footer p.copyright {
   padding: 35px 0;
