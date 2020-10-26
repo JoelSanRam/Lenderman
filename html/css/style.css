@@ -144,7 +144,7 @@ website:    http://www.themepunch.com
 }
 .navbar-nav > li > a:hover:after,
 .navbar-nav > li > a.active:after {
-  background: #ffc952;
+  background: #b2b2b2;
 }
 .navbar-nav > li.drop:hover > a:after {
   background: transparent;
@@ -223,7 +223,7 @@ website:    http://www.themepunch.com
 /*-------------------------------------------------*/
 p {
   font-size: 12px;
-  color: #999999;
+  color: #fff;
   font-family: 'Merriweather', serif;
   font-weight: 400;
   line-height: 24px;
@@ -242,7 +242,7 @@ p {
   padding-top: 50px;
 }
 .title-section h1 {
-  color: #222222;
+  color: #fff;
   font-size: 48px;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
@@ -312,7 +312,7 @@ section.about-section .about-box .about-post a {
   margin-bottom: 20px;
 }
 section.about-section .about-box .about-post a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 section.about-section .about-box .about-post h2 {
   color: #222222;
@@ -321,11 +321,11 @@ section.about-section .about-box .about-post h2 {
   font-weight: 500;
   margin: 0 0 20px;
   line-height: 24px;
-  color: #000;
+  color: #fff;
 }
 section.about-section .about-box .about-post p {
   font-size: 13px;
-  color: #000;
+  color: #fff;
   padding-bottom: 24px;
   position: relative;
 }
@@ -343,11 +343,11 @@ section.about-section .about-box .about-post p:after {
   -o-transition: all 0.2s ease-in-out;
 }
 section.about-section .about-box .about-post:hover p:after {
-  background: #ffc952;
+  background: #b2b2b2;
 }
 section.box-offer-section {
   padding: 50px 0;
-  background: #ffc952;
+  background: #4f4f4f;
   position: relative;
 }
 section.box-offer-section .box-offer-box {
@@ -399,7 +399,7 @@ section.box-offer-section .box-offer-box .box-post .inner-box-post div.box-conte
 section.box-offer-section .box-offer-box .box-post .inner-box-post div.box-content p {
   margin-bottom: 35px;
   font-size: 13px;
-  color: #222222;
+  color: #fff;
 }
 section.box-offer-section .owl-theme .owl-controls {
   margin-top: -13px;
@@ -494,7 +494,7 @@ section.portfolio-section .portfolio-box .project-post .hover-box {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(255, 201, 82, 0.95);
+  background: rgba(178, 178, 178, 0.95);
   opacity: 0;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -621,7 +621,7 @@ a.white-button {
 }
 a.white-button:hover {
   background: #222222;
-  color: #ffc952;
+  color: #b2b2b2;
 }
 section.features-section {
   padding: 85px 0;
@@ -662,7 +662,7 @@ section.features-section .features-box .features-post a {
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   font-size: 32px;
-  color: #ffc952;
+  color: #4f4f4f;
   float: left;
 }
 section.features-section .features-box .features-post h2 {
@@ -697,7 +697,7 @@ section.features-section2 .features-box .image-place img {
   max-width: 100%;
 }
 section.features-section2 .features-box h1 {
-  color: #222222;
+  color: #fff;
   font-size: 48px;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
@@ -721,14 +721,14 @@ section.features-section2 .features-box .features-post {
 section.features-section2 .features-box .features-post span {
   display: inline-block;
   font-size: 48px;
-  color: #ffc952;
+  color: #4f4f4f;
   font-family: 'Merriweather', serif;
   font-weight: 300;
   line-height: 48px;
   float: left;
 }
 section.features-section2 .features-box .features-post h2 {
-  color: #222222;
+  color: #fff;
   font-size: 18px;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
@@ -807,7 +807,7 @@ section.team-section .team-box .team-post .inner-team-post ul.social-icons li a 
   font-size: 15px;
 }
 section.team-section .team-box .team-post .inner-team-post ul.social-icons li a:hover {
-  color: #ffc952;
+  color: #b2b2b2;
 }
 section.team-section .team-box .team-post .inner-team-post:after {
   content: '';
@@ -816,7 +816,7 @@ section.team-section .team-box .team-post .inner-team-post:after {
   top: 20px;
   left: 20px;
   right: 20px;
-  border: 2px solid #ffc952;
+  border: 2px solid #b2b2b2;
   opacity: 0;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -2829,13 +2829,13 @@ section.accordions-section {
 /*-------------------------------------------------*/
 section.statistic-section {
   padding: 120px 0 110px;
-  background: #ffc952;
+  background: #4f4f4f;
 }
 section.statistic-section .statistic-post {
   margin-bottom: 20px;
 }
 section.statistic-section .statistic-post h2 {
-  color: #222222;
+  color: #fff;
   font-size: 18px;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
@@ -2857,7 +2857,7 @@ section.statistic-section .statistic-post p:after {
   bottom: 0px;
   width: 30px;
   height: 2px;
-  background: #222222;
+  background: #fff;
 }
 section.statistic-section .statistic-post span.timer {
   color: #ffffff;
