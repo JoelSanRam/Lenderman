@@ -629,7 +629,7 @@ section.features-section {
 }
 section.features-section .features-box {
   background: #ffffff url('../images/dev1.png') bottom right no-repeat;
-  padding: 190px 140px 80px 50px;
+  padding: 90px 140px 80px 50px;
   margin-left: -50px;
   margin-right: -140px;
 }
@@ -720,11 +720,11 @@ section.features-section2 .features-box .features-post {
 }
 section.features-section2 .features-box .features-post span {
   display: inline-block;
-  font-size: 48px;
+  font-size: 18px;
   color: #4f4f4f;
   font-family: 'Merriweather', serif;
   font-weight: 300;
-  line-height: 48px;
+  
   float: left;
 }
 section.features-section2 .features-box .features-post h2 {
@@ -736,7 +736,7 @@ section.features-section2 .features-box .features-post h2 {
   line-height: 24px;
   font-weight: 600;
   margin-bottom: 0;
-  margin-left: 90px;
+  margin-left: 35px;
 }
 section.team-section {
   padding: 100px 0 110px;
