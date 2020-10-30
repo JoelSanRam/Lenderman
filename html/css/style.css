@@ -240,6 +240,7 @@ p {
   margin-bottom: 60px;
   position: relative;
   padding-top: 50px;
+  height: 280px;
 }
 .title-section h1 {
   color: #fff;
@@ -691,7 +692,7 @@ section.features-section2 {
   -o-background-size: cover;
 }
 section.features-section2 .features-box .image-place {
-  text-align: center;
+  text-align: left;
 }
 section.features-section2 .features-box .image-place img {
   max-width: 100%;
@@ -2339,7 +2340,7 @@ section.contact-form-section .container {
 }
 section.contact-form-section .contact-form-box {
   padding: 80px 0;
-  border: 2px solid #ffc952;
+  border: 2px solid #fff;
 }
 section.contact-form-section .contact-form-box h1 {
   color: #222222;
@@ -3599,4 +3600,16 @@ footer p.copyright {
   section.content-section .elegant-icons span.box1 {
     width: 100%;
   }
+}
+
+.valores{
+  text-align: right;
+}
+.buho{
+  text-decoration:none;
+  color: #666666;
+}
+.buho:hover{
+  color: #fff;
+  text-decoration:none;
 }
