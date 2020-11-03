@@ -255,12 +255,23 @@ p {
 }
 .tamaniotitulo{
   font-size: 85px;
+  padding-bottom: 10px;
+}
+@media screen and (max-width: 600px){
+  .tamaniotitulo{
+    font-size: 95px;
+  }
 }
 .tamaniotitulo2{
   font-size: 48px;
 }
 .tamaniosubtitulo{
   font-size: 25px;
+}
+@media screen and (max-width: 600px){
+  .tamaniosubtitulo{
+    font-size: 20px;
+  }
 }
 .title-section p {
   font-size: 18px;
@@ -2373,7 +2384,7 @@ section.contact-form-section .contact-form-box #contact-form textarea {
   width: 100%;
   padding: 12px 20px;
   background: #f7f7f7;
-  color: #999999;
+  color: #666060;
   font-size: 12px;
   font-family: 'Poppins', sans-serif;
   outline: none;
@@ -3527,7 +3538,7 @@ footer p.copyright {
   }
   .title-section h1,
   section.banner-image-section h1 {
-    font-size: 28px;
+    font-size: 40px;
     line-height: 36px;
     letter-spacing: 0;
   }
@@ -3649,5 +3660,11 @@ footer p.copyright {
 @media screen and (max-width: 600px){
   .textofooter{
     text-align: center;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .numerosvalores{
+    padding-left: 200px;
   }
 }
