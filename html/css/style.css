@@ -240,11 +240,11 @@ p {
   margin-bottom: 60px;
   position: relative;
   padding-top: 50px;
-  height: 280px;
+  height: 310px;
 }
 .title-section h1 {
   color: #fff;
-  font-size: 48px;
+  
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
   line-height: 60px;
@@ -252,6 +252,15 @@ p {
   letter-spacing: -2.5px;
   margin-bottom: 0;
   padding-top: 60px;
+}
+.tamaniotitulo{
+  font-size: 85px;
+}
+.tamaniotitulo2{
+  font-size: 48px;
+}
+.tamaniosubtitulo{
+  font-size: 25px;
 }
 .title-section p {
   font-size: 18px;
@@ -292,7 +301,7 @@ p {
 }
 section.about-section {
   padding: 100px 0 135px;
-  background: url('../images/5.jpg') center fixed;
+  background: url('../images/7.jpg') center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -423,7 +432,7 @@ section.box-offer-section:after {
   left: 0;
   width: 40%;
   height: 100%;
-  background: url('../upload/banners/ban1.jpg');
+  background: url('../images/14.jpg');
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -629,7 +638,7 @@ section.features-section {
   overflow: hidden;
 }
 section.features-section .features-box {
-  background: #ffffff url('../images/dev1.png') bottom right no-repeat;
+  background: #0C0B0F url('../images/11.jpg') bottom right no-repeat;
   padding: 90px 140px 80px 50px;
   margin-left: -50px;
   margin-right: -140px;
@@ -667,7 +676,7 @@ section.features-section .features-box .features-post a {
   float: left;
 }
 section.features-section .features-box .features-post h2 {
-  color: #222222;
+  color: #fff;
   font-size: 18px;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
@@ -3612,4 +3621,33 @@ footer p.copyright {
 .buho:hover{
   color: #fff;
   text-decoration:none;
+}
+
+.logofinal{
+  padding-top: 5px;
+  width: 250px;
+}
+
+@media screen and (max-width: 600px) {
+  .logofinal {
+    width: 190px;
+  }
+}
+.colortitulo{
+  color: #000;
+}
+.colortitulo{
+  color: #222222;
+}
+
+@media screen and (max-width: 600px) {
+  .colortitulo {
+    color: #fff;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .textofooter{
+    text-align: center;
+  }
 }
