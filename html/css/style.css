@@ -281,17 +281,23 @@ p {
 .title-section:before {
   content: '';
   position: absolute;
-  left: 50%;
+  left: 48%;
   top: 0px;
-  width: 1px;
+  width: 39px;
   height: 30px;
-  background: #222222;
+  background: transparent;
+  background-image: url('../images/lenderman_white.svg');
+}
+@media screen and (max-width: 600px){
+  .title-section:before{
+    left: 45%;
+  }
 }
 .title-section.white-style h1 {
   color: #fff;
 }
 .title-section.white-style:before {
-  background: #ffffff;
+  
 }
 #home-section {
   overflow: hidden;
@@ -3655,6 +3661,10 @@ footer p.copyright {
   .colortitulo {
     color: #fff;
   }
+}
+
+.textofooter2{
+  text-align: right;
 }
 
 @media screen and (max-width: 600px){
